@@ -4,7 +4,7 @@ The shortest possible [Apache Maven](https://maven.apache.org) template for Java
 
 # usage
 
-1. `git clone https://github.com/AdamBien/java17-plain`
+1. `git clone https://github.com/yarish/java17-plain`
 2. `cd java17-plain`
 3. `mvn package`
 
